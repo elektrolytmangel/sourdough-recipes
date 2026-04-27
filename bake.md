@@ -17,13 +17,23 @@ Prepare this first — see [bake-formula.md](bake-formula.md).
 
 ### Autolyse
 
-|                                                                                                             |             |
-| ----------------------------------------------------------------------------------------------------------- | ----------- |
-| Flour of choice (e.g. bread flour, or a mix with whole wheat / rye)                                         | 500g        |
-| Water (26–30°C) — start with 80%, then add the remainder gradually depending on how much your flour absorbs | 300g – 350g |
-| Salt                                                                                                        | 10g         |
+| Ingredient      | Amount      |
+| --------------- | ----------- |
+| Flour           | 500g        |
+| Water (26–30°C) | 300g – 350g |
+| Salt            | 10g         |
 
-> The 75g levain already contains ~37.5g flour and ~37.5g water, bringing totals to **~500g flour** and **~350g water** (~70% hydration).
+> Start with 300g water (80%) and add the rest gradually — absorption varies by flour type.
+
+**Flour mix used:** 10% whole wheat · 30–40% white wheat · 50–60% Ruchmehl
+
+| Flour       | Swiss name   | German type  | Character                                                             |
+| ----------- | ------------ | ------------ | --------------------------------------------------------------------- |
+| Whole wheat | Vollkornmehl | Vollkornmehl | 100% of the grain; dense and nutty                                    |
+| White wheat | Weissmehl    | Type 405     | Light, strong, neutral — standard bread flour                         |
+| Ruchmehl    | Ruchmehl     | Type 1050    | Partially whole grain; earthy, flavourful; typical Swiss baking flour |
+
+> The 75g levain already contains ~37.5g flour and ~37.5g water, bringing totals to **>500g flour** and **~350g water** (~70% hydration).
 
 ---
 
